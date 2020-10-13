@@ -6,3 +6,4 @@ test
 hoge
 hoge
 hoge
+HOGE
